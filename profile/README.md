@@ -1,6 +1,6 @@
-# D0020E - A decentralized on-chain auction system based on signatures and blockchain
+# A decentralized on-chain open-outcry auction system based on blockchains
 
-This project is our graduation project, implementing an open auction system on the Hyperledger Fabric (HLF) blockchain. 
+A graduation project from the Computer and Systems Engineering Department at Alexandria University, implementing an open auction system using the Hyperledger Fabric (HLF) blockchain platform.
 
 ## Abstract
 
