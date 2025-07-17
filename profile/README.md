@@ -51,7 +51,30 @@ The [`documents/`](https://github.com/BitAuction/documents) repository contains:
 - 🧾 Meeting Minutes  
 - 🖼️ System Diagrams (Architecture, ERD, Sequence Diagrams)  
 - 📽️ Final Presentation  
+- 📸 Screenshots & Demo
 
+---
+## 📸 Screenshots
+
+Here are some screenshots demonstrating key features of our system:
+
+###  Login
+![Homepage](https://raw.githubusercontent.com/BitAuction/documents/main/demo/Picture1.png)
+
+---
+
+### Available Auctions
+![Available Auctions](https://raw.githubusercontent.com/BitAuction/documents/main/demo/Picture3.png)
+
+---
+
+### Live Auction View
+![Live Auction](https://raw.githubusercontent.com/BitAuction/documents/main/demo/Picture5.png)
+
+---
+
+### Notifications
+![Notifications](https://raw.githubusercontent.com/BitAuction/documents/main/demo/Picture6.png)
 ---
 
 ## 🎓 Credits
